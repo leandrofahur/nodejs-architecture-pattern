@@ -2,11 +2,7 @@
 
 ### Beware, this is a living document and it will be continuously updated!!! 🚀
 
----
-
 > "Documentation is a love letter that you write to your future self." - Damian Conway
-
----
 
 ## ⚔️ Formating
 

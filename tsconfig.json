@@ -11,13 +11,14 @@
         "strictPropertyInitialization": false,
         "baseUrl": "src",
         "paths": {
-            // "@config/*": ["config/*"],
-            // "@controllers/*": ["controllers/*"],
-            // "@errors/*": ["errors/*"],
-            // "@middlewares/*": ["middlewares/*"],
-            // "@models/*": ["models/*"],
-            // "@routes/*": ["routes/*"],
-            // "@services/*": ["services/*"]
+            "@configs/*": ["configs/*"],
+            "@controllers/*": ["controllers/*"],
+            "@interfaces/*": ["interfaces/*"],
+            "@middlewares/*": ["middlewares/*"],
+            "@models/*": ["models/*"],
+            "@routes/*": ["routes/*"],
+            "@services/*": ["services/*"],
+            "@subscribers/*": ["subscribers/*"]
         },
         "typeRoots": ["@types", "./node_modules/@types"],
         "esModuleInterop": true,
