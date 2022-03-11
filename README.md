@@ -15,20 +15,20 @@
 
 <h2><strong>Folder Structure</strong></h2>
 
-<p> src</p>
-<p>│  </p>
-<p>└───**tests** # Tests.</p>
-<p>└───config # Configuration files.</p>
-<p>└───controllers # Controllers.</p>
-<p>└───interfaces # Interfaces.</p>
-<p>└───models # Database models.</p>
-<p>└───middleware # Middlewares used by express.js.</p>
-<p>└───services # Business logic.</p>
-<p>└───routes # Api routes. (endpoints)</p>
-<p>└───subscribers # Event handlers for async tasks.</p>
-<p>└───types # Type declaration files for Typescript. (d.ts)</p>
-<p>│ app.js # Express.js configuration as an app.</p>
-<p>│ server.js # Application entry point.</p>
+<span> src</span>
+<span>│</span>
+<span>└───**tests** # Tests.</span>
+<span>└───config # Configuration files.</span>
+<span>└───controllers # Controllers.</span>
+<span>└───interfaces # Interfaces.</span>
+<span>└───models # Database models.</span>
+<span>└───middleware # Middlewares used by express.js.</span>
+<span>└───services # Business logic.</span>
+<span>└───routes # Api routes. (endpoints)</span>
+<span>└───subscribers # Event handlers for async tasks.</span>
+<span>└───types # Type declaration files for Typescript. (d.ts)</span>
+<span>│ app.js # Express.js configuration as an app.</span>
+<span>│ server.js # Application entry point.</span>
 
 <br/>
 
