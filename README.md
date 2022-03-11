@@ -15,14 +15,24 @@
 
 <h2><strong>Folder Structure</strong></h2>
 <p>
+ .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
 src
-    │     
-    └───__tests__       # Tests.
-    └───config          # Configuration files.└───controllers     # Controllers.
-    └───interfaces      # Controllers.
-    └───models          # Database models.└───middleware      # Middlewares used by express.js.└───services        # Business logic.└───routes          # Api routes. (endpoints)└───subscribers     # Event handlers for async tasks.└───types           # Type declaration files for Typescript. (d.ts) 
-    │  app.js           # Express.js configuration as an app.
-    │  server.js        # Application entry point.
+│  
+ └───**tests** # Tests.
+└───config # Configuration files.└───controllers # Controllers.
+└───interfaces # Controllers.
+└───models # Database models.└───middleware # Middlewares used by express.js.└───services # Business logic.└───routes # Api routes. (endpoints)└───subscribers # Event handlers for async tasks.└───types # Type declaration files for Typescript. (d.ts)
+│ app.js # Express.js configuration as an app.
+│ server.js # Application entry point.
+
 <p>
 <br/>
 
