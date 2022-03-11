@@ -1,57 +1,33 @@
-<h1 align="center"><strong>NODEJS WITH TYPESCRIPT ACHITECTURE PATTERN</strong></h1>
-<h5 align="center"><strong>Beware, this is a living document and it will be continuously updated!!! 🚀</strong></h5>
-<br/>
+# NODEJS WITH TYPESCRIPT ACHITECTURE PATTERN
 
-<blockquote>
-  <br/>
-  <h2><strong>"Documentation is a love letter that you write to your future self." - Damian Conway</strong></h2>
-  <br/>
-</blockquote>
-<br/>
+### Beware, this is a living document and it will be continuously updated!!! 🚀
 
-<h2>⚔️ <strong>Formating</strong></h2>
-<p>Make sure to have installed the extensions EditorConfig and Prettier</p>
-<br/>
+> "Documentation is a love letter that you write to your future self." - Damian Conway
 
-<h2><strong>Folder Structure</strong></h2>
+## ⚔️ Formating
 
-<span> src</span>
-<span>│</span>
-<span>└───**tests** # Tests.</span>
-<span>└───config # Configuration files.</span>
-<span>└───controllers # Controllers.</span>
-<span>└───interfaces # Interfaces.</span>
-<span>└───models # Database models.</span>
-<span>└───middleware # Middlewares used by express.js.</span>
-<span>└───services # Business logic.</span>
-<span>└───routes # Api routes. (endpoints)</span>
-<span>└───subscribers # Event handlers for async tasks.</span>
-<span>└───types # Type declaration files for Typescript. (d.ts)</span>
-<span>│ app.js # Express.js configuration as an app.</span>
-<span>│ server.js # Application entry point.</span>
+Make sure to have installed the extensions EditorConfig and Prettier
 
-<br/>
+## Folder Structure
 
-<h2><strong>Layer Structure</strong></h2>
-<p>
-    
-<p>
-<br/>
+.
+├── \_\_tests\_\_ # Tests.
+├── config # Configuration files.
+├── controllers # Controllers.
+├── interfaces # Interfaces.
+├── models # Database models.
+├── middleware # Middlewares used by express.js.
+├── services # Business logic.
+├── routes # Api routes. (endpoints)
+├── subscribers # Event handlers for async tasks.
+├── types # Type declaration files for Typescript. (d.ts)
+├── app.js # Express.js configuration as an app.
+└── server.js # Application entry point.
 
-<h2>📝 <strong>References</strong></h2>
-<ol>
-  <li>
-    <a href="https://editorconfig.org/">
-        EditorConfig
-    </a>
-  </li>
-  <li>
-    <a href="https://prettier.io/">
-        Prettier
-    </a>
-  </li>
-</ol>
-<br/>
+## Layer Structure
 
-<h2>🔐 <strong>License</strong></h2>
-<p>Copyright © 2022 - All Rights Reserved</p>
+## 📝 References
+
+## 🔐 License
+
+Copyright © 2022 - All Rights Reserved
