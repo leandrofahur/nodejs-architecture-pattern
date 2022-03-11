@@ -24,15 +24,6 @@ Make sure to have installed the extensions EditorConfig and Prettier
 ├── app.js # Express.js configuration as an app.
 └── server.js # Application entry point. -->
 
-.
-├── build # Compiled files (alternatively `dist`)
-├── docs # Documentation files (alternatively `doc`)
-├── src # Source files (alternatively `lib` or `app`)
-├── test # Automated tests (alternatively `spec` or `tests`)
-├── tools # Tools and utilities
-├── LICENSE
-└── README.md
-
 ## Layer Structure
 
 ## 📝 References
