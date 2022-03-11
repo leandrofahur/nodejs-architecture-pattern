@@ -14,15 +14,15 @@
 <br/>
 
 <h2><strong>Folder Structure</strong></h2>
-<p>
- .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+
+.
+├── build # Compiled files (alternatively `dist`)
+├── docs # Documentation files (alternatively `doc`)
+├── src # Source files (alternatively `lib` or `app`)
+├── test # Automated tests (alternatively `spec` or `tests`)
+├── tools # Tools and utilities
+├── LICENSE
+└── README.md
 
 src
 │  
@@ -33,7 +33,6 @@ src
 │ app.js # Express.js configuration as an app.
 │ server.js # Application entry point.
 
-<p>
 <br/>
 
 <h2><strong>Layer Structure</strong></h2>
