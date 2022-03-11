@@ -16,19 +16,13 @@
 <h2><strong>Folder Structure</strong></h2>
 <p>
 src
-  │     
-  └───__tests__       # Tests.
-  └───config          # Configuration files.
-  └───controllers     # Controllers.
-  └───interfaces      # Controllers.
-  └───models          # Database models.
-  └───middleware      # Middlewares used by express.js.
-  └───services        # Business logic.
-  └───routes          # Api routes. (endpoints)
-  └───subscribers     # Event handlers for async tasks.
-  └───types           # Type declaration files for Typescript. (d.ts) 
-  │  app.js           # Express.js configuration as an app.
-  │  server.js        # Application entry point.
+    │     
+    └───__tests__       # Tests.
+    └───config          # Configuration files.└───controllers     # Controllers.
+    └───interfaces      # Controllers.
+    └───models          # Database models.└───middleware      # Middlewares used by express.js.└───services        # Business logic.└───routes          # Api routes. (endpoints)└───subscribers     # Event handlers for async tasks.└───types           # Type declaration files for Typescript. (d.ts) 
+    │  app.js           # Express.js configuration as an app.
+    │  server.js        # Application entry point.
 <p>
 <br/>
 
