@@ -2,11 +2,17 @@
 
 ### Beware, this is a living document and it will be continuously updated!!! 🚀
 
+---
+
 > "Documentation is a love letter that you write to your future self." - Damian Conway
+
+---
 
 ## ⚔️ Formating
 
 Make sure to have installed the extensions EditorConfig and Prettier
+
+---
 
 ## Folder Structure
 
@@ -24,9 +30,15 @@ Make sure to have installed the extensions EditorConfig and Prettier
 ├── app.js # Express.js configuration as an app.
 └── server.js # Application entry point. -->
 
+---
+
 ## Layer Structure
 
+---
+
 ## 📝 References
+
+---
 
 ## 🔐 License
 
